@@ -15,6 +15,7 @@ module.exports = async (ctx, next) => {
       case 400:
       case 404:
       case 500:
+        // 自定义处理错误方式，通常为上报
         break;
       default:
         break;
