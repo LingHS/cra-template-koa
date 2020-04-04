@@ -7,6 +7,8 @@
 
 更多细节可查看 `template/server`目录及`template.json`文件
 
+**使用方式** `npx create-react-app temp --template koa --registry=https://registry.npmjs.org`
+
 ---
 
 This is the official base template for [Create React App](https://github.com/facebook/create-react-app).
